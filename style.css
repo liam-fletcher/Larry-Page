@@ -1,0 +1,30 @@
+main{
+padding: 0;
+}
+header{
+position: sticky;
+top:0;
+font-size: 40px;
+padding:40px;
+ font-family: "Lucida Console", "Courier New", monospace;
+background: CornflowerBlue;
+text-align: center;
+}
+img {
+  float: right;
+}
+h2 {
+  font-family: "Lucida Console", "Courier New", monospace;
+   color: blue;
+  font-size: 25px;
+}
+h3 {
+  font-family: "Lucida Console", "Courier New", monospace;
+   color: blue;
+  font-size: 25px;
+}
+h4 {
+  font-family: "Lucida Console", "Courier New", monospace;
+   color: blue;
+  font-size: 25px;
+}
